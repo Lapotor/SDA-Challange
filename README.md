@@ -15,6 +15,10 @@ The URL will be validated against trusted domains to prevent security issues.
 - Communication is handled via REST.
 - Security considerations include validating input URLs and handling sensitive data securely.
 
+## Future thoughts
+- Load the blacklist from a database
+- Only allow requests with a valid API key
+
 ## Getting Started
 
 ### Prerequisites
